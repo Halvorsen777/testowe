@@ -1,2 +1,2 @@
 # testowe
-kurs testowania
+kurs testowania nauka testowania
